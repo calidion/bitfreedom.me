@@ -1,6 +1,9 @@
 # bitfreedom.me
 我的比特币自由交易之梦
 
+## 联系方式
+discord: https://discord.gg/ycRuvHE
+
 ## 导论
 
 比特币自从横空出世，极大的影响了人类社会的货币演进，从而影响了政治格局。
